@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hipps-joshua # Josh
 - 👀 I’m interested in ... coding and music
-- 🌱 I’m currently learning ... web development.
+- 🌱 I’m currently learning ... react.
 - 💞️ I’m looking to collaborate on ... anything fun.
 - 📫 How to reach me ... messages here.
 - 😄 Pronouns: ... He/Him/His
